@@ -1,6 +1,6 @@
 package Recursion;
 
-public class Program1 {
+public class PowerDriver {
 
 	public static void main(String[] args) {
 
