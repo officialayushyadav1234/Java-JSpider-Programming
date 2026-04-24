@@ -1,6 +1,6 @@
 package Bitwise_Operator;
 
-public class Program3 {
+public class AND_Operator {
 	public static void main(String[] args) {
 
 		System.out.println(35 & 55);

@@ -1,6 +1,6 @@
 package Bitwise_Operator;
 
-public class Program4 {
+public class AND_Operator1 {
 	public static void main(String[] args) {
 
 		int p = 27;
