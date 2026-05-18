@@ -13,7 +13,7 @@ public class BinaryFromDecimal {
 	}
 
 	public static void getBinary(int n) {
-		String bin = "";
+		String bin = " ";
 		while (n > 0) {
 			int rem = n % 2;
 			bin = rem + bin;
